@@ -1,4 +1,4 @@
-package tech.tarragona.spring;
+package tech.tarragona.spring.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
